@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "639262412883",
+    "project_id": "consessionaria-app",
+    "storage_bucket": "consessionaria-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639262412883:android:cf419aba793797301bf6a6",
+        "android_client_info": {
+          "package_name": "com.perguntados.concessionriaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnLWGZNyXH32tqkqXetzeWO3ThscbMM5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
